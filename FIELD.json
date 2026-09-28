@@ -1,0 +1,23 @@
+{
+  "field_id": "hyperspace",
+  "contract_version": "0.1.0",
+  "classification": "FRAME",
+  "module": "hyperspace",
+  "exports": [
+    "Placement",
+    "Channel",
+    "Observation",
+    "Slice",
+    "project",
+    "adjacent",
+    "observable_from",
+    "observed_from"
+  ],
+  "scope": "Finite placement and explicitly bound observation among named reality presentations on one abstract hyperspace slice.",
+  "exclusions": [
+    "No physical inter-reality distance, travel, or communication is established.",
+    "No hyperphere topology or dimension is established.",
+    "No universempiternality realization or native derivation is established."
+  ],
+  "verifier_status": "NOT_CHECKED"
+}
