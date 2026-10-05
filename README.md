@@ -2,7 +2,7 @@
 
 **Where observable realities appear beside one another.** Hyperspace studies
 placement and possible observation among reality presentations. It is one
-proposed axis in Tyler Roost / The TimeLord's view of universempiternality as
+proposed axis in Tyler Roost / The TimeLord's view of universempiternity as
 an apparent grid of base realities. The appearance is [HYPER], not an
 astronomical observation or a completed description of the whole.
 

@@ -20,3 +20,7 @@ Hyperspace owns the proposed placement/observation axis; Hypertime owns the
 separate order/branch axis. The two are joined only by declared stable IDs
 in [GRID_SEAM.md](GRID_SEAM.md). The project makes no personal or private
 source claim and asserts no Verifier Standard certification.
+
+## Naming (2026-10-05)
+
+USER-STATED, in a session with the assistant: the object is spelled **universempiternity** (and **sempiternity**), the property it holds **universempiternality** / **sempiternality**. Prose in this repository about the object now uses the object spelling. The quotation above keeps the spelling Tyler used on 2026-09-28.

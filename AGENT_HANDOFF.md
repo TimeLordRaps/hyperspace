@@ -16,7 +16,7 @@ This is bounded local code evidence, not a metaphysical or physical result.
 
 Current limitation: declared channel, bound record ID, and actual verified
 observation remain three levels. No physical geometry, travel, or full
-universempiternality is inferred. [TECHNICAL_DEBT.md](TECHNICAL_DEBT.md)
+universempiternity is inferred. [TECHNICAL_DEBT.md](TECHNICAL_DEBT.md)
 retains obligations and audit state. Exact next action after publication:
 test a pinned cross-repository grid join and observation-record integrity,
 then connect it to Hyperstratum without importing physical claims.

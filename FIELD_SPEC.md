@@ -1,7 +1,7 @@
 # Hyperspace: placement and observation across presented realities
 
 **Status, 2026-09-28.** [HYPER] Tyler Roost proposes that realities are that
-which are observable and that universempiternality appears as base realities
+which are observable and that universempiternity appears as base realities
 in a grid, like **hyperpheres**, along apparent Hyperspace and Hypertime axes.
 This repository studies one axis. It does not establish that the grid exists
 physically or that an observer can inspect the whole.
@@ -62,7 +62,7 @@ The [grid seam](GRID_SEAM.md) defines a candidate join with Hypertime by
 stable reality-presentation identity. A Hyperspace slice is one row at a
 specified Hypertime display index; a grid may have multiple such rows.
 The join must not equate the apparent two display axes with all dimensions
-of a base-reality or of universempiternality.
+of a base-reality or of universempiternity.
 
 [OPEN] Show who can observe which presentation, with what channel, evidence,
 translation, and failure; then determine whether “observable” means direct,

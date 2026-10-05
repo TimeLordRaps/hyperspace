@@ -24,5 +24,5 @@ does not prove unobservability in every possible frame.
 
 [OPEN] Supply stable identity across rows, observational equivalence,
 legitimate branching and joining, and a physical or native-form account of
-the apparent hyperpheres. [HYPER] Universempiternality may admit such a
+the apparent hyperpheres. [HYPER] Universempiternity may admit such a
 view; a finite table neither exhausts nor realizes that whole.
